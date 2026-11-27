@@ -64,6 +64,32 @@ El análisis de conversión contempla eventos como primera visita, selección de
 - Cálculo de la retención acumulada en D7, D14, D21 y D28.
 - Comparación del comportamiento de las cohortes a lo largo del tiempo.
 
+## Visualización de resultados
+
+### 1. Embudo general de conversión
+
+Este gráfico muestra el comportamiento de los usuarios a través de las diferentes etapas del proceso de compra e identifica los principales puntos de abandono.
+
+![Embudo general de conversión](Imágenes/embudo_general.png)
+
+### 2. Embudo de conversión por país
+
+Comparación del comportamiento de conversión de los usuarios entre los diferentes países analizados.
+
+![Embudo de conversión por país](Imágenes/embudo_conversion_pais.png)
+
+### 3. Retención por país
+
+Mapa de calor que permite comparar los porcentajes de retención acumulada de los usuarios por país en los periodos D7, D14, D21 y D28.
+
+![Retención por país](Imágenes/retencion_pais.png)
+
+### 4. Retención por cohortes
+
+Visualización de la evolución de la retención acumulada según el mes de registro de los usuarios, considerando los periodos D7, D14, D21 y D28.
+
+![Retención por cohortes](Imágenes/retencion_cohortes.png)
+
 ## Principales resultados
 
 - Se identificó una pérdida del **85,68 % de los usuarios entre la selección del producto y la incorporación al carrito**, lo que evidencia una oportunidad de mejora en esa etapa del recorrido.
