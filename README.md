@@ -116,17 +116,26 @@ Visualización de la evolución de la retención acumulada según el mes de regi
 
 ## Estructura del repositorio
 
+La organización de los archivos del proyecto es la siguiente:
+
 ```text
 analisis-embudo-retencion-mercadolibre/
 │
-├── README.md
+├── Imágenes/
+│   ├── embudo_conversion_pais.png
+│   ├── embudo_general.png
+│   ├── retencion_cohortes.png
+│   └── retencion_pais.png
 │
-└── SQL/
-    ├── 01_exploracion_datos.sql
-    ├── 02_embudo_conversion_general.sql
-    ├── 03_embudo_conversion_por_pais.sql
-    ├── 04_retencion_por_pais.sql
-    └── 05_retencion_por_cohortes.sql
+├── SQL/
+│   ├── 01_exploracion_datos.sql
+│   ├── 02_embudo_conversion_general.sql
+│   ├── 03_embudo_conversion_por_pais.sql
+│   ├── 04_retencion_por_pais.sql
+│   ├── 05_retencion_por_cohortes.sql
+│   └── Código SQL
+│
+└── README.md
 ```
 
 ## Reproducibilidad y disponibilidad de los datos
